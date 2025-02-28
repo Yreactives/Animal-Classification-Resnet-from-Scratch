@@ -1,0 +1,9 @@
+*.pth
+data/
+*.txt
+*.ptl
+test.py
+MLP.py
+*.mp3
+*.zip
+venv/

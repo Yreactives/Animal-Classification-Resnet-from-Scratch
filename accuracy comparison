@@ -1,0 +1,72 @@
+CNN
+no activation function (Linear)
+Epoch [1/10], Loss: 3.6815
+Accuracy of the network on the 3141 validation images: 21.553645335880294 %
+Epoch [2/10], Loss: 2.6915
+Accuracy of the network on the 3141 validation images: 27.02960840496657 %
+Epoch [3/10], Loss: 2.8612
+Accuracy of the network on the 3141 validation images: 28.844317096466092 %
+Epoch [4/10], Loss: 2.5021
+Accuracy of the network on the 3141 validation images: 30.43616682585164 %
+Epoch [5/10], Loss: 1.3219
+Accuracy of the network on the 3141 validation images: 29.38554600445718 %
+Epoch [6/10], Loss: 0.5865
+Accuracy of the network on the 3141 validation images: 29.003502069404647 %
+Epoch [7/10], Loss: 0.5909
+Accuracy of the network on the 3141 validation images: 29.544730977395734 %
+Epoch [8/10], Loss: 0.5221
+Accuracy of the network on the 3141 validation images: 28.907991085641516 %
+Epoch [9/10], Loss: 0.2194
+Accuracy of the network on the 3141 validation images: 27.825533269659346 %
+Epoch [10/10], Loss: 0.3324
+Accuracy of the network on the 3141 validation images: 26.67940146450175 %
+Accuracy of the network on the 31415 test images: 87.49005252268024 %
+finished
+
+added relu (Non Linearity)
+Epoch [1/10], Loss: 3.7663
+Accuracy of the network on the 3141 validation images: 18.01973893664438 %
+Epoch [2/10], Loss: 3.2445
+Accuracy of the network on the 3141 validation images: 22.667940146450174 %
+Epoch [3/10], Loss: 2.7983
+Accuracy of the network on the 3141 validation images: 26.329194524036932 %
+Epoch [4/10], Loss: 2.9837
+Accuracy of the network on the 3141 validation images: 30.690862782553328 %
+Epoch [5/10], Loss: 2.2221
+Accuracy of the network on the 3141 validation images: 31.2002546959567 %
+Epoch [6/10], Loss: 2.0732
+Accuracy of the network on the 3141 validation images: 34.765998089780325 %
+Epoch [7/10], Loss: 1.6156
+Accuracy of the network on the 3141 validation images: 34.92518306271888 %
+Epoch [8/10], Loss: 0.8281
+Accuracy of the network on the 3141 validation images: 33.97007322508755 %
+Epoch [9/10], Loss: 0.8151
+Accuracy of the network on the 3141 validation images: 33.30149633874562 %
+Epoch [10/10], Loss: 0.6644
+Accuracy of the network on the 3141 validation images: 32.85577841451767 %
+Accuracy of the network on the 31415 test images: 86.71017030081171 %
+finished
+
+added batch normalization
+Epoch [1/10], Loss: 3.6783
+Accuracy of the network on the 3141 validation images: 16.809933142311365 %
+Epoch [2/10], Loss: 3.3243
+Accuracy of the network on the 3141 validation images: 21.553645335880294 %
+Epoch [3/10], Loss: 3.0012
+Accuracy of the network on the 3141 validation images: 25.533269659344157 %
+Epoch [4/10], Loss: 3.1315
+Accuracy of the network on the 3141 validation images: 29.226361031518625 %
+Epoch [5/10], Loss: 2.1241
+Accuracy of the network on the 3141 validation images: 31.009232728430437 %
+Epoch [6/10], Loss: 2.6034
+Accuracy of the network on the 3141 validation images: 32.15536453358803 %
+Epoch [7/10], Loss: 1.5748
+Accuracy of the network on the 3141 validation images: 36.071314867876474 %
+Epoch [8/10], Loss: 1.8279
+Accuracy of the network on the 3141 validation images: 37.058261700095514 %
+Epoch [9/10], Loss: 1.7927
+Accuracy of the network on the 3141 validation images: 40.337472142629736 %
+Epoch [10/10], Loss: 1.6381
+Accuracy of the network on the 3141 validation images: 36.96275071633238 %
+Accuracy of the network on the 31415 test images: 62.766194493076554 %
+finished
