@@ -13,7 +13,8 @@ import pygame
 import wikipedia
 from model import ResNet, ResidualBlock
 from translate import Translator
-bot = telebot.TeleBot("6111054887:AAGUHu_VftKpFo4sjsED5nxBP4a9un_MUT0")
+
+bot = telebot.TeleBot(open('telegrambot.txt', 'r').read())
 
 @bot.message_handler(content_types=['photo'])
 def photoClassifier(message):
