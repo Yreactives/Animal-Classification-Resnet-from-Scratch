@@ -7,3 +7,4 @@ MLP.py
 *.mp3
 *.zip
 venv/
+*.ipynb
